@@ -54,7 +54,7 @@ Project Requirement
       <li> <b> Admin Registration Fields </b> </li>
       <li> Name : [ Validation Rules : Accept only strings and space, Required ] </li>
       <li> Email : [ Validation Rules : Accept only valid email address, Required ] </li>
-      <li> Password : [ Validation Rules : Accept only valid password min 8 lenght with alphanumeric, Required ] </li>
+      <li> Password : [ Validation Rules : Accept only valid password min 8 length with alphanumeric, Required ] </li>
       <li> Confirm Password : [ Validation Rules : should be same as Password field, Required ] </li>
       <li> On Registration button click redirect to Admin dashboard page </li>
       <li> Use migrations scrpits for tables </li>
@@ -71,13 +71,13 @@ Project Requirement
           <li> <b> User Registration Fields </b> </li>
           <li> Name : [ Validation Rules : Accept only strings and space, Required ] </li>
           <li> Email : [ Validation Rules : Accept only valid email address, Required ] </li>
-          <li> Password : [ Validation Rules : Accept only valid password min 8 lenght with alphanumeric, Required ] </li>
+          <li> Password : [ Validation Rules : Accept only valid password minimum 8 length with alphanumeric, Required ] </li>
           <li> Confirm Password : [ Validation Rules : should be same as Password field, Required ] </li>
           <li> On Registration button click send email verification 8 digit OTP to registered email address </li>
           <li> Verify OTP Page will be open with Enter OTP </li>
-          <li> 1 min timer counter will shows to user </li>
-          <li> After 1 min timer counter will shows Resend OTP button to user and should able to resend 8 digit OTP at registered email</li>
-          <li> After 1 min timer counter old OTP will be expired and not allow to login with old OTP</li>
+          <li> 1 minutes timer counter will shows to user </li>
+          <li> After 1 minutes timer counter will shows Resend OTP button to user and should able to resend 8 digit OTP at registered email</li>
+          <li> After 1 minutes timer counter old OTP will be expired and not allow to login with old OTP</li>
           <li> On Verify OTP Check if OTP is valid then redirect to User Home Page </li>          
           <li> Use migrations scrpits for tables </li>
           <li> Generate 5 dummy sample for User role using Factory and Seeder </li>
