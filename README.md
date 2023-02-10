@@ -35,13 +35,13 @@ Credentials Details
 =====================================
 <b>User Role</b>
 <ul>
-  <li>Username : user@yopmail.com</li>
+  <li>Username : <a href="mailto:user@yopmail.com">user@yopmail.com</a></li>
   <li>Password : password</li>
 </ul>
 
 <b>Admin Role</b>
 <ul>
-  <li>Username : admin@yopmail.com</li>
+  <li>Username : <a href="mailto:admin@yopmail.com">admin@yopmail.com</a></li>
   <li>Password : password</li>
 </ul>
 
